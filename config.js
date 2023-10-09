@@ -7,13 +7,13 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348142436450', 'senseii', true],
+  ['2348055015107', 'senseii', true],
   [''],
   [''] 
 ] //Number of owners
 
-global.mods = ['2348142436450','2348142436450'] 
-global.prems = ['2348142436450', '2348142436450', '2348142436450']
+global.mods = ['2348055015107','2348055015107'] 
+global.prems = ['2348055015107', '2348055015107', '2348055015107']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,7 +49,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'senseii'
 global.premium = 'true'
-global.packname = 'senseii🎯senseii☘️' 
+global.packname = 'luffy🎯senseii☘️' 
 global.author = 'senseii' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
